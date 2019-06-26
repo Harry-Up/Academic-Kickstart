@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Wei Han
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Data Ming Lab, University of Electronic Science and Technology of China
+  url: "http://dm.uestc.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are about knowledge tranfer in an interpretable manner.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Interpretable Machine Learning
+- Transfer Learning
+- Continual / Lifelong Learning
+- Few-Shot Learning
+- Meta-Learning
+- Representation Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science amd Techonology
+    institution: University of Electronic Science and Technology of China
+    year: 2017 - now
+  - course: BSc in Electronic and Electric Engineering
+    institution: University of Glasgow
+    year: 2013 - 2017
+  - course: BSc in Electronic Information Engineering
+    institution: University of Electronic Science and Technology of China
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'wei.hb.han@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Harry-Up
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/%E8%91%B3-%E9%9F%A9-3569a014b/?locale=en_US
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/harry-70-29-35/posts
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Ph.D. student in Computer Science and Technology at Data Mining Lab, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). I received my Bachelors in Electronic Information Engineering from UESTC and Electronic Information Engineering from University of Glasgow (UoG), during 2013 and 2017.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests are about knowledge tranfer in an interpretable manner, including interpretable machine learning, transfer Learning, continual / lifelong learning, few-shot learning, meta-learning and representation learning. Please feel free to discuss with me.
