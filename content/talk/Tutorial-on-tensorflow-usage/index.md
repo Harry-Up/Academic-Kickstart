@@ -29,7 +29,7 @@ featured: false
 #   focal_point: Right
 links:
 - name: HTML
-  url: /talk/tutorial-on-tensorflow-usage/Tutorial-on-tensorflow-usage.html #https://www.zybuluo.com/HarryUp/note/1222382
+  url: "https://www.zybuluo.com/HarryUp/note/1222382"
 url_code: ""
 url_pdf: ""
 url_slides: ""

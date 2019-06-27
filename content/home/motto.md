@@ -34,7 +34,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "100px", "0"]
+  padding = ["76px", "0", "76px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -44,6 +44,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## I pray to see the light of the pig iron, 
-## the light of the lover 
-## and the sunshine!
+# I pray to see the light of the pig iron, 
+# the light of the lover 
+# and the sunshine!

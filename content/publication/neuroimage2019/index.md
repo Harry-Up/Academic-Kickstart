@@ -41,7 +41,7 @@ tags:
 - Nonnegative Matrix Factorization
 - Neuroimaging
 # categories: []
-featured : ture
+featured: ture
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
