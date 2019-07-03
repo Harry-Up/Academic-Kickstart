@@ -45,5 +45,5 @@ subtitle = ""
 +++
 
 # I pray to see the light of the pig iron, 
-# the light of the lover 
+# the light of the lover,
 # and the sunshine!

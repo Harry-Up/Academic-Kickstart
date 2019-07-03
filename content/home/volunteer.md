@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "UESTC"
   organization_url = ""
-  title = "Welcome volunteer"
+  title = "Welcome volunteer for freshmen"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
@@ -31,7 +31,7 @@ date_format = "2006"
 [[item]]
   organization = "UESTC"
   organization_url = ""
-  title = "Freshman counseling volunteer"
+  title = "Counseling volunteer for college entrance"
   url = ""
   certificate_url = ""
   date_start = "2015-07-01"
