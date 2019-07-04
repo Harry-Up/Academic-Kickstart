@@ -56,7 +56,7 @@ social:
   link: https://github.com/Harry-Up
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/%E8%91%B3-%E9%9F%A9-3569a014b/?locale=en_US
+  link: https://www.linkedin.com/in/weihan95/?locale=en_US
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/harry-70-29-35/posts
