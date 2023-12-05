@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "wei.hb.han@gmail.com"
+email = "mailto:wei.hb.han@gmail.com"
 # phone = "888 888 88 88"
 address = "No.2006, Xiyuan Avenue, West Hi-tech Zone, Chengdu, Sichuan, P.R. China"
 
@@ -64,7 +64,7 @@ address = "No.2006, Xiyuan Avenue, West Hi-tech Zone, Chengdu, Sichuan, P.R. Chi
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "Contact Me", link = "wei.hb.han@gmail.com"},
+  {icon = "envelope", icon_pack = "fas", name = "Contact Me", link = "mailto:wei.hb.han@gmail.com"},
   {icon = "google-scholar", icon_pack = "ai", name = "Cooperate with Me", link = "https://github.com/Harry-Up"},
   {icon = "zhihu", icon_pack = "fab", name = "Inspire Me", link = "https://www.zhihu.com/people/harry-70-29-35/posts"},
   {icon = "github", icon_pack = "fab", name = "Cooperate with Me", link = "https://github.com/Harry-Up"},

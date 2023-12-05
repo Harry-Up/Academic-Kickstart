@@ -14,11 +14,11 @@ authors:
 - Tao Li
 - Sugai Liang
 - Junming Shao
-date: 2019-02-22T15:58:24+08:00
+date: 2019-02-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-02-22T15:58:24+08:00
+publishDate: 2019-02-22
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,7 +39,7 @@ tags:
 - Nonnegative Matrix Factorization
 - Neuroimaging
 # categories: []
-featured: true
+featured: false
 
 # links:
 # - name: ""

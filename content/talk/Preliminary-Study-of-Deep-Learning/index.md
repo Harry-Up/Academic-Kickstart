@@ -16,9 +16,7 @@ all_day: false
 publishDate: "2016-11-16T20:00:00Z"
 
 authors: []
-tags:
-- Deep Neural Network
-- Interpretable Machine Learning
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,23 @@ organizations:
   url: "http://dm.uestc.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are about knowledge tranfer in an interpretable manner.
+bio: My research interests include interpretable machine learning, transfer Learning, continual / lifelong learning, few-shot learning and adversarial learning. 
 
 interests:
 - Interpretable Machine Learning
 - Transfer Learning
-- Continual / Lifelong Learning
 - Few-Shot Learning
-- Meta-Learning
-- Representation Learning
+- Continual / Lifelong Learning
+- Adversarial Learning
 
 education:
   courses:
-  - course: PhD in Computer Science amd Techonology
+  - course: PhD in Computer Science and Techonology
     institution: University of Electronic Science and Technology of China
     year: 2017 - now
+  - course: Joint PhD in Informatics
+    institution: University of Munich
+    year: 2021 - 2022
   - course: BSc in Electronic and Electric Engineering
     institution: University of Glasgow
     year: 2013 - 2017
@@ -76,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Ph.D. student in Computer Science and Technology at Data Mining Lab, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). I received my Bachelors in Electronic Information Engineering from UESTC and Electronic Information Engineering from University of Glasgow (UoG), during 2013 and 2017.
+I am currently a Ph.D. candidate in Computer Science and Technology at Data Mining Lab, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). I received my Bachelor‘s in Electronic Information Engineering from UESTC and Electronic Information Engineering from University of Glasgow (UoG) in 2017.
 
-My research interests are about knowledge tranfer in an interpretable manner, including interpretable machine learning, transfer Learning, continual / lifelong learning, few-shot learning, meta-learning and representation learning. Please feel free to discuss with me.
+My research interests include interpretable machine learning, transfer Learning, continual / lifelong learning, few-shot learning, meta-learning and adversarial learning. Please feel free to discuss with me.
